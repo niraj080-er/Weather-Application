@@ -3,4 +3,4 @@ Check the weather around you and all over the world at a glance. Rely on the acc
 Weather application to gives the accurate weather information like temperature, location and temperature description. Weather application ask the permission for your location to give the exact or accureate weather info.
 It's a Simple Weather Application made by using HTML, CSS & JavaScript.
 
-Live Demo: 
+Live Demo: https://melodic-cannoli-7873e4.netlify.app/
